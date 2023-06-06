@@ -1,5 +1,5 @@
 // window.onload  = setTimer(0, 30, 0);
-setTimer(0, 30, 0);
+setTimer(0, 30, 01);
 
 function setTimer(startHours, startMinutes, startSeconds) {
   // localStorage.lear()
